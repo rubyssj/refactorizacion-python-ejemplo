@@ -15,10 +15,12 @@ def ingresar_puntuacion():
                 archivo.write(f'{post}\n')
             break  # salir del bucle
         else:
-            print('Entrada no válida. Por favor, introduzca un número entre 1 y 5.')
+            print('Por favor, introduzca un número entre 1 y 5.')
 
 def resultados_actualizado():
+    print("                      ")
     print('Resultados hasta la fecha:')
+    print("                      ")
     try:
         with open("data.txt", "r") as archivo:
             resultados = archivo.read()
