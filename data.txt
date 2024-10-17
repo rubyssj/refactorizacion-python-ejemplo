@@ -1,0 +1,9 @@
+punto: 3 comentario: 3 
+punto: 4 comentario: hola
+punto: 2 comentario: rubyss 
+punto: 2 comentario: ggg 
+punto: 2 comentario: fotos 
+Puntuaci�n: 3 | Comentario: hola me llamo ura
+punto: 2 comentario: carlos
+punto: 2 comentario: saludos
+punto: 5 comentario: punto 5
